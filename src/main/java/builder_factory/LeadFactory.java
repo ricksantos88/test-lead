@@ -5,6 +5,7 @@ import domain.model.Address;
 import domain.model.Document;
 import domain.model.Lead;
 
+// ta mais pra builder que factory
 public class LeadFactory {
 
     private Lead lead;
